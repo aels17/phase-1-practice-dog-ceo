@@ -1,0 +1,14 @@
+{
+    "dogs": [
+      {
+        "id": 1,
+        "name": "Spaniel Cocker",
+        "imgUrl": ""
+      },
+      {
+        "id": 2,
+        "title": "Second Article",
+        "content": "This is also an example."
+      }
+    ]
+  }
